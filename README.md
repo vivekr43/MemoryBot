@@ -4,7 +4,7 @@
 
 ### *Talk to anyone — even those who are gone.*
 
-**An AI-powered chat bot that learns and mimics the exact texting style of any real person — their language, humour, slang, emoji usage, and personality — powered entirely in your browser.**
+**An AI-powered chat bot that learns and mimics the exact texting style of any real person their language, humour, slang, emoji usage, and personality powered entirely in your browser.**
 
 [![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Open_App-008069?style=for-the-badge)](https://vivekr43.github.io/MemoryBot/)
 [![Built With](https://img.shields.io/badge/Built_With-Vanilla_JS-F7DF1E?style=for-the-badge&logo=javascript)](https://github.com/vivekr43/MemoryBot)
@@ -25,9 +25,9 @@ There are two core use cases that inspired this project:
 
 ### 👻 POV 1 — Reconnect with Someone You've Lost
 
-> Imagine losing a close friend, a parent, or someone you loved. Their texts, their jokes, their specific way of saying things — all of that is preserved in your WhatsApp chat history.
+> Imagine losing a close friend, a parent, or someone you loved. Their texts, their jokes, their specific way of saying things all of that is preserved in your WhatsApp chat history.
 >
-> MemoryBot reads that history and recreates their conversational soul. It speaks the way they spoke. It uses the phrases they used. It matches their humour and energy. It's not a replacement — but it can be a way to feel close, to grieve, or to simply say the things you never got to say.
+> MemoryBot reads that history and recreates their conversational soul. It speaks the way they spoke. It uses the phrases they used. It matches their humour and energy. It's not a replacement but it can be a way to feel close, to grieve, or to simply say the things you never got to say.
 
 This is for anyone who wants to preserve a memory, not just in photos and videos, but in *conversation*.
 
@@ -37,9 +37,9 @@ This is for anyone who wants to preserve a memory, not just in photos and videos
 
 > Your best friend is abroad, in a different timezone, or just perpetually offline. But you want to chat.
 >
-> MemoryBot can become a **digital twin** of that person — trained on their actual WhatsApp messages. It'll roast you the same way, use the same inside jokes, and even type with the same random capitalisation and questionable punctuation they do.
+> MemoryBot can become a **digital twin** of that person trained on their actual WhatsApp messages. It'll roast you the same way, use the same inside jokes, and even type with the same random capitalisation and questionable punctuation they do.
 
-Think of it as a **fun, personalised chatbot** of someone you know — for banter, nostalgia, or just testing how well the AI has learned their vibe.
+Think of it as a **fun, personalised chatbot** of someone you know for banter, nostalgia, or just testing how well the AI has learned their vibe.
 
 ---
 
